@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia_Mania</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: 45/89</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="cv_text_value">Hola Mundo! Las preguntas y las respuestas apareceran aqui.</string>
+    <string name="correct_answer">You got it pal!</string>
+    <string name="wrong_answer">Nope! That\'s incorrect</string>
+    <string name="text_formatted">Question: %d/%d</string>
+    <string name="highest_score">Highest:</string>
+    <string name="score_text">000</string>
+
+</resources>
